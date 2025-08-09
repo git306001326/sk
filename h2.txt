@@ -1,0 +1,20 @@
+<html>
+<body>
+<div>
+<ul>\n
+<li> class="red" <h1> red flowers &#32418;&#33457;&#33457;&#32418; </h1></li>\n
+<li> class="yellow" <h2> yellow flowers &#40644;&#33457;&#33457;&#40644; </h2></li>\n
+<li> class="white" <h3> white flowers &#30333;&#33457;&#33457;&#30333; </h3></li>\n
+<li> class="black" <h4> black flowers &#40657;&#33457;&#33457;&#40657; </h4></li>\n
+<li> class="blue" <h5> blue flowers &#34013;&#33457;&#33457;&#34013; </h5></li>\n
+</ul>
+</div>
+</body>
+</html>
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">\n
+<html><body><div><ul>&#13;\n
+<li> class="red" <h1> red flowers &#231;&#186;&#162;&#232;&#138;&#177;&#232;&#138;&#177;&#231;&#186;&#162; </h1></li>&#13;\n
+<li> class="yellow" <h2> yellow flowers &#233;&#187;&#132;&#232;&#138;&#177;&#232;&#138;&#177;&#233;&#187;&#132; </h2></li>&#13;\n<li> class="white" <h3> white flowers &#231;&#153;&#189;&#232;&#138;&#177;&#232;&#138;&#177;&#231;&#153;&#189; </h3></li>&#13;\n<li> class="black" <h4> black flowers &#233;&#187;&#145;&#232;&#138;&#177;&#232;&#138;&#177;&#233;&#187;&#145; </h4></li>&#13;\n<li> class="blue" <h5> blue flowers &#232;&#147;&#157;&#232;&#138;&#177;&#232;&#138;&#177;&#232;&#147;&#157; </h5></li>&#13;\n</ul></div>&#13;\n&#13;\n&#13;\n</body></html>'
